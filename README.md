@@ -3,7 +3,7 @@
 Material for the VDT Summerschool on risk management, especially interest-rate, derivatives, and FX.
 
 Interactive slides:
-http://wbk.ing/Speicherteiche/
+http://wbk.ing/vdt-summerschool/
 
 Repository artifacts:
 - Notebook: `vdt.ipynb`
